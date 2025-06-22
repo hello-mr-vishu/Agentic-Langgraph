@@ -1,6 +1,5 @@
 def main():
-    print("Hello from agenticlanggraph!")
-
+    print("agenticlanggraph!")
 
 if __name__ == "__main__":
     main()
