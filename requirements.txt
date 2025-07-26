@@ -1,3 +1,9 @@
-langgraph
-langchain
-langsmith
+
+langchain>=0.2.11
+langchain-openai>=0.2.0
+langgraph>=0.1.18
+pydantic>=2.5.0
+langchain-google-genai>=0.2.0
+pytz
+duckduckgo-search>=0.6.0
+langchain-community>=0.2.0
