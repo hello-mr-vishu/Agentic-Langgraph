@@ -7,3 +7,4 @@ langchain-google-genai>=0.2.0
 pytz
 duckduckgo-search>=0.6.0
 langchain-community>=0.2.0
+langchain-tavily
